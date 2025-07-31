@@ -1,1 +1,1 @@
-# Data-Analytics-Project
+# Insurance-Analytics-Project
